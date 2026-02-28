@@ -1,0 +1,11 @@
+# 临时文件
+.cowork-temp/
+*.log
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# 系统文件
+Thumbs.db
